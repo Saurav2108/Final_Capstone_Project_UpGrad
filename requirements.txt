@@ -1,0 +1,11 @@
+Python Libraries Installation 
+
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+numpy
+joblib
+matplotlib
+seaborn
