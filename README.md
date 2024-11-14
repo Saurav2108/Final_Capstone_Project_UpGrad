@@ -31,9 +31,14 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 
 Project Result Summary (Conclusion)
+
 •  Leveraged advanced machine learning techniques to effectively detect fraudulent transactions within a highly imbalanced dataset.
+
 •  Tackled class imbalance using SMOTE (Synthetic Minority Over-sampling Technique), enhancing the dataset’s representativeness.
+
 •  Conducted comprehensive experimentation across multiple classifiers, optimizing model performance for fraud detection.
+
 •  Achieved impressive precision and recall metrics, underscoring the model's reliability in identifying fraudulent activity.
+
 •  High AUC score illustrates the model's robust ability to distinguish between fraudulent and legitimate transactions, validating its effectiveness.
 
